@@ -1,14 +1,17 @@
-# GitHub Pages
+# 个人主页导航
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-Hey @bob-1996!
+NAS导航
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+国外媒体
 
-Remember, it's self-paced so feel free to take a break! ☕️
+IT硬件技术
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/bob-1996/skills-github-pages/issues/1)
+IT软件技术
+
+手机
+
 
 ---
 
